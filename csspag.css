@@ -1,0 +1,19 @@
+body{
+    font-family:sans-serif;
+    background-image: url(empresa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
+.crasse {
+    margin-top: -85px;
+    margin-left: 68%;
+    border-color: aliceblue;
+    color: aliceblue;
+    font-size: 25px;
+}
+.sanduiche{
+    margin: 0px;
+    margin-top: -105px;
+    margin-left: 20px;
+}

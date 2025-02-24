@@ -1,0 +1,48 @@
+.diva{
+    margin-left: 150px;
+
+    background-color: black;
+}
+
+a {
+    color:aliceblue;
+}
+h2{
+    margin-top: 50px;
+    font-size: 40px;
+    text-align: center;
+}
+h3{
+    margin: 30px;
+}
+.styleimg{
+    border: solid;
+}
+
+.pcgamerimg{
+    background-color: rgb(255, 255, 255);
+    margin-left: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 60px; 
+}
+
+.preco{
+    font-size: 60px;
+    margin-left: 900px;
+    margin-top: -400px;
+}
+.comprar{
+    margin-left: 900px;
+    border-radius: 10px;
+    background-color: rgb(78, 78, 78);
+    width: 300px;
+    height: 60px;
+    text-align: center;
+    text-decoration: underline;
+    margin-left: 950px;
+}
+h4{
+    margin-left: 950px;
+    margin-top: -30px;
+}
